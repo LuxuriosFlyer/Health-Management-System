@@ -1,0 +1,6 @@
+print("Enter hours:")
+inp1=int(input())
+print("Enter rate:")
+inp2=int(input())
+print("Pay:", end=' ')
+print(inp1*inp2)
