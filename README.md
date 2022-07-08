@@ -1,4 +1,4 @@
-# Projects
+# Health Manangement System
 A simple health management system using python 3. Using this project you can keep track of the diet and exercises that the user did at any point of time.
 
 
